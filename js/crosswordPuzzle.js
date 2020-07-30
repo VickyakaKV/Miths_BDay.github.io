@@ -335,7 +335,7 @@ var cwp_nmsp = {};
 		console.log(non_null_count);
 		if(correct == non_null_count){
 			alert("Periya aalu thaan pa !!!");
-			window.location.replace("https://google.com");
+			window.location.replace("https://drive.google.com/file/d/1h19B8H_QaY0RQGd2mEH2y545MHSKLSmL/view");
 		}
 
 		pContainer.innerHTML="";
